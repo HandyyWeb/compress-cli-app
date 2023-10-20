@@ -43,7 +43,7 @@ Example :
 
 Use the `-o` or `--output` option to specify a new folder in which you want to output the compressed images
 
-    rename -c <current_images_folder_path> <new_images_folder_path>
+    sharp -o <current_images_folder_path> <new_images_folder_path>
 
 Example :
 
